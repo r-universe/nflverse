@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fastrmodels"]
+	path = fastrmodels
+	url = https://github.com/nflverse/fastrmodels
+	shallow = true
+	registered = true
+[submodule "gsisdecoder"]
+	path = gsisdecoder
+	url = https://github.com/nflverse/gsisdecoder
+	shallow = true
+	registered = true
+[submodule "nfl4th"]
+	path = nfl4th
+	url = https://github.com/nflverse/nfl4th
+	shallow = true
+	registered = true
+[submodule "nflfastR"]
+	path = nflfastR
+	url = https://github.com/nflverse/nflfastR
+	shallow = true
+	registered = true
+[submodule "nflseedR"]
+	path = nflseedR
+	url = https://github.com/nflverse/nflseedR
+	shallow = true
+	registered = true

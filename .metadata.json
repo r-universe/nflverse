@@ -1,0 +1,22 @@
+[
+  {
+    "package": "fastrmodels",
+    "oncran": true
+  },
+  {
+    "package": "gsisdecoder",
+    "oncran": true
+  },
+  {
+    "package": "nfl4th",
+    "oncran": true
+  },
+  {
+    "package": "nflfastR",
+    "oncran": false
+  },
+  {
+    "package": "nflseedR",
+    "oncran": false
+  }
+]
