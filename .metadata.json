@@ -18,5 +18,12 @@
   {
     "package": "gsisdecoder",
     "oncran": true
+  },
+  {
+    "package": "ffscrapr",
+    "oncran": true
+  },
+  {
+    "package": "espnscrapeR"
   }
 ]
