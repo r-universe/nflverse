@@ -1,11 +1,11 @@
 [
   {
     "package": "nflfastR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "nflseedR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "nfl4th",
