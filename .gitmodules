@@ -28,9 +28,9 @@
 	url = https://github.com/nflverse/gsisdecoder
 	shallow = true
 	registered = true
-[submodule "ffscrapr"]
-	path = ffscrapr
-	url = https://github.com/dynastyprocess/ffscrapr
+[submodule "nflverse"]
+	path = nflverse
+	url = https://github.com/nflverse/nflverse
 	shallow = true
 	registered = true
 [submodule "espnscrapeR"]
