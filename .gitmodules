@@ -38,8 +38,8 @@
 	url = https://github.com/jthomasmock/espnscrapeR/
 	shallow = true
 	registered = true
-[submodule "nflloadr"]
-	path = nflloadr
-	url = https://github.com/nflverse/nflloadr
+[submodule "nflreadr"]
+	path = nflreadr
+	url = https://github.com/nflverse/nflreadr
 	shallow = true
 	registered = true
