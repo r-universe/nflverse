@@ -26,6 +26,7 @@
     "package": "espnscrapeR"
   },
   {
-    "package": "nflreadr"
+    "package": "nflreadr",
+    "oncran": false
   }
 ]
