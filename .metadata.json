@@ -27,6 +27,6 @@
   },
   {
     "package": "nflreadr",
-    "oncran": false
+    "oncran": true
   }
 ]
