@@ -1,20 +1,8 @@
 [
   {
-    "package": "gridtext",
-    "url": "https://github.com/wilkelab/gridtext",
-    "via": ["nflplotR"],
-    "from": "nflplotR"
-  },
-  {
     "package": "nflreadr",
     "url": "https://github.com/nflverse/nflreadr",
     "via": ["nflfastR"],
     "from": "nflfastR"
-  },
-  {
-    "package": "nflreadr",
-    "url": "https://github.com/nflverse/nflreadr",
-    "via": ["nflplotR"],
-    "from": "nflplotR"
   }
 ]

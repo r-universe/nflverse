@@ -48,8 +48,3 @@
 	url = https://github.com/nflverse/nflplotR
 	shallow = true
 	registered = true
-[submodule "gridtext"]
-	path = gridtext
-	url = https://github.com/wilkelab/gridtext
-	shallow = true
-	registered = false
