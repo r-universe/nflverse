@@ -30,6 +30,7 @@
     "oncran": true
   },
   {
-    "package": "nflplotR"
+    "package": "nflplotR",
+    "oncran": false
   }
 ]
