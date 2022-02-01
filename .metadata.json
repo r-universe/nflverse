@@ -20,7 +20,8 @@
     "oncran": true
   },
   {
-    "package": "nflverse"
+    "package": "nflverse",
+    "oncran": false
   },
   {
     "package": "espnscrapeR"
