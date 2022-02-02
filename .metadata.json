@@ -21,7 +21,7 @@
   },
   {
     "package": "nflverse",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "espnscrapeR"
