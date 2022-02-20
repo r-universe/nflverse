@@ -35,7 +35,7 @@
 	registered = true
 [submodule "espnscrapeR"]
 	path = espnscrapeR
-	url = https://github.com/jthomasmock/espnscrapeR/
+	url = https://github.com/jthomasmock/espnscrapeR
 	shallow = true
 	registered = true
 [submodule "nflreadr"]
