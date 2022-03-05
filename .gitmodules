@@ -48,3 +48,8 @@
 	url = https://github.com/nflverse/nflplotR
 	shallow = true
 	registered = true
+[submodule "nflversedata"]
+	path = nflversedata
+	url = https://github.com/nflverse/nflverse-data
+	shallow = true
+	registered = true
