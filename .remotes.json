@@ -1,11 +1,5 @@
 [
   {
-    "package": "nflreadr",
-    "url": "https://github.com/nflverse/nflreadr",
-    "via": ["nflfastR"],
-    "from": "nflfastR"
-  },
-  {
     "package": "piggyback",
     "url": "https://github.com/ropensci/piggyback",
     "via": ["nflversedata"],
