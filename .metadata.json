@@ -13,11 +13,11 @@
   },
   {
     "package": "fastrmodels",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "gsisdecoder",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "nflverse",
