@@ -53,8 +53,3 @@
 	url = https://github.com/nflverse/nflverse-data
 	shallow = true
 	registered = true
-[submodule "piggyback"]
-	path = piggyback
-	url = https://github.com/ropensci/piggyback
-	shallow = true
-	registered = false
