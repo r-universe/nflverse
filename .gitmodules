@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/nflverse/universe
-	shallow = true
 	branch = HEAD
 [submodule "nflfastR"]
 	path = nflfastR
 	url = https://github.com/nflverse/nflfastR
-	shallow = true
-	registered = true
 [submodule "nflseedR"]
 	path = nflseedR
 	url = https://github.com/nflverse/nflseedR
-	shallow = true
-	registered = true
 [submodule "nfl4th"]
 	path = nfl4th
 	url = https://github.com/nflverse/nfl4th
-	shallow = true
-	registered = true
 [submodule "fastrmodels"]
 	path = fastrmodels
 	url = https://github.com/nflverse/fastrmodels
-	shallow = true
-	registered = true
 [submodule "gsisdecoder"]
 	path = gsisdecoder
 	url = https://github.com/nflverse/gsisdecoder
-	shallow = true
-	registered = true
 [submodule "nflverse"]
 	path = nflverse
 	url = https://github.com/nflverse/nflverse
-	shallow = true
-	registered = true
 [submodule "espnscrapeR"]
 	path = espnscrapeR
 	url = https://github.com/jthomasmock/espnscrapeR
-	shallow = true
-	registered = true
 [submodule "nflreadr"]
 	path = nflreadr
 	url = https://github.com/nflverse/nflreadr
-	shallow = true
-	registered = true
 [submodule "nflplotR"]
 	path = nflplotR
 	url = https://github.com/nflverse/nflplotR
-	shallow = true
-	registered = true
 [submodule "nflversedata"]
 	path = nflversedata
 	url = https://github.com/nflverse/nflverse-data
-	shallow = true
-	registered = true
