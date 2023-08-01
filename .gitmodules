@@ -2,33 +2,33 @@
 	path = .registry
 	url = https://github.com/nflverse/universe
 	branch = HEAD
-[submodule "nflfastR"]
-	path = nflfastR
-	url = https://github.com/nflverse/nflfastR
-[submodule "nflseedR"]
-	path = nflseedR
-	url = https://github.com/nflverse/nflseedR
-[submodule "nfl4th"]
-	path = nfl4th
-	url = https://github.com/nflverse/nfl4th
+[submodule "espnscrapeR"]
+	path = espnscrapeR
+	url = https://github.com/jthomasmock/espnscrapeR
 [submodule "fastrmodels"]
 	path = fastrmodels
 	url = https://github.com/nflverse/fastrmodels
 [submodule "gsisdecoder"]
 	path = gsisdecoder
 	url = https://github.com/nflverse/gsisdecoder
-[submodule "nflverse"]
-	path = nflverse
-	url = https://github.com/nflverse/nflverse
-[submodule "espnscrapeR"]
-	path = espnscrapeR
-	url = https://github.com/jthomasmock/espnscrapeR
-[submodule "nflreadr"]
-	path = nflreadr
-	url = https://github.com/nflverse/nflreadr
+[submodule "nfl4th"]
+	path = nfl4th
+	url = https://github.com/nflverse/nfl4th
+[submodule "nflfastR"]
+	path = nflfastR
+	url = https://github.com/nflverse/nflfastR
 [submodule "nflplotR"]
 	path = nflplotR
 	url = https://github.com/nflverse/nflplotR
+[submodule "nflreadr"]
+	path = nflreadr
+	url = https://github.com/nflverse/nflreadr
+[submodule "nflseedR"]
+	path = nflseedR
+	url = https://github.com/nflverse/nflseedR
+[submodule "nflverse"]
+	path = nflverse
+	url = https://github.com/nflverse/nflverse
 [submodule "nflversedata"]
 	path = nflversedata
 	url = https://github.com/nflverse/nflverse-data
