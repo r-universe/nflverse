@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nflverse/universe
+	url = https://github.com/nflverse/nflverse.r-universe.dev
 	branch = HEAD
 [submodule "espnscrapeR"]
 	path = espnscrapeR
