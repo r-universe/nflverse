@@ -8,6 +8,10 @@
 [submodule "fastrmodels"]
 	path = fastrmodels
 	url = https://github.com/nflverse/fastrmodels
+[submodule "ggpath"]
+	path = ggpath
+	url = https://github.com/mrcaseb/ggpath
+	registered = false
 [submodule "gsisdecoder"]
 	path = gsisdecoder
 	url = https://github.com/nflverse/gsisdecoder
