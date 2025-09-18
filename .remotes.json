@@ -1,8 +1,0 @@
-[
-  {
-    "package": "ggpath",
-    "url": "https://github.com/mrcaseb/ggpath",
-    "via": ["nflplotR"],
-    "from": "nflplotR"
-  }
-]
