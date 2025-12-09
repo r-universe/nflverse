@@ -1,0 +1,8 @@
+[
+  {
+    "package": "fastrmodels",
+    "url": "https://github.com/nflverse/fastrmodels",
+    "via": ["nflfastR"],
+    "from": "nflfastR"
+  }
+]
