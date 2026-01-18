@@ -10,5 +10,11 @@
     "url": "https://github.com/qsbase/qs",
     "via": ["nflreadr"],
     "from": "nflreadr"
+  },
+  {
+    "package": "qs",
+    "url": "https://github.com/qsbase/qs",
+    "via": ["nflversedata"],
+    "from": "nflversedata"
   }
 ]
