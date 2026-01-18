@@ -4,5 +4,11 @@
     "url": "https://github.com/nflverse/fastrmodels",
     "via": ["nflfastR"],
     "from": "nflfastR"
+  },
+  {
+    "package": "qs",
+    "url": "https://github.com/qsbase/qs",
+    "via": ["nflreadr"],
+    "from": "nflreadr"
   }
 ]
