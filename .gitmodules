@@ -32,7 +32,3 @@
 [submodule "nflversedata"]
 	path = nflversedata
 	url = https://github.com/nflverse/nflverse-data
-[submodule "qs"]
-	path = qs
-	url = https://github.com/qsbase/qs
-	registered = false
